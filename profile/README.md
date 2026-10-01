@@ -1,26 +1,35 @@
 <div align="center">
+
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jelenastricak&theme=radical&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff"/>
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jelenastricak&theme=react-dark&bg_color=0d1117&color=00FF41&line=FF6B00&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jelenastricak&theme=radical&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="GitHub contribution streak">
+
 <br><br>
 
-[![RaptorLabs](https://img.shields.io/badge/RaptorLabs-CC0000?style=for-the-badge&logo=rocket&logoColor=white)](https://raptorlabs.dev)
-[![SolMint](https://img.shields.io/badge/SolMint-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solmint.dev)
+[![RaptorLabs](https://img.shields.io/badge/Raptor_Labs-CC0000?style=for-the-badge&logo=rocket&logoColor=white)](https://raptorlabs.dev)
+[![Solmint](https://img.shields.io/badge/Solmint-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solmint.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelenastricak/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jstricak)
 
 </div>
 
-# Hi, I'm Jelena 👋
+# Jelena Stričak
 
-AI developer and consultant operating at the intersection of technology, education, and the humanities.
-Founder & CEO of [RaptorLabs](https://raptorlabs.dev) — building purposeful, AI-driven web solutions.
-Co-founder of [SolMint](https://solmint.dev) — a no-code Solana token launcher with 5,000+ deployments on mainnet.
-M.A. in History & Education · University of Zagreb · Currently deep in AI strategy, SaaS, and clean code.
+**Founder & CEO · Software Engineer · AI and Product Builder**
 
-- 🌐 Personal site & blog: [jelenastricak.dev](https://jelenastricak.dev)
-- 🦅 Company: [raptorlabs.dev](https://raptorlabs.dev)
-- ◎ Web3 app: [solmint.dev](https://solmint.dev)
-- 💼 LinkedIn: [jelenastricak](https://www.linkedin.com/in/jelenastricak/)
-- 🐦 X / Twitter: [@jstricak](https://x.com/jstricak)
+I lead [Raptor Labs](https://raptorlabs.dev), where I shape product direction and build software across AI-enabled applications, SaaS, and emerging technology. My work brings executive ownership together with hands-on engineering: translating business needs into clear product architecture, reliable web experiences, and systems built to evolve.
+
+I also co-founded [Solmint](https://solmint.dev), a no-code Solana token launcher with more than 5,000 mainnet deployments. My background includes an M.A. in History and Education from the University of Zagreb, informing a practical, user-centered approach to technology and learning.
+
+## Work and projects
+
+- **Raptor Labs** — Product and software company: [raptorlabs.dev](https://raptorlabs.dev)
+- **CyberLink Security** — [cyberlinksec.com](https://cyberlinksec.com)
+- **ResponseRed** — [responsered.com](https://responsered.com)
+- **Solmint** — No-code Solana token launcher: [solmint.dev](https://solmint.dev)
+- **Startup Accelerator** — Community project: [startupaccelerator.dev](https://startupaccelerator.dev)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jelenastricak/)
+- [X](https://x.com/jstricak)
